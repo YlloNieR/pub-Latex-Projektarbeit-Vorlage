@@ -1,0 +1,35 @@
+%!TEX root = rootOfProject.tex
+
+\fancypagestyle{plain}{
+	\fancyhf{}% clear all fields
+	\renewcommand{\headrulewidth}{0.4pt} %obere Trennlinie Dicke
+	\fancyhead[L]{\projectTitleShort}
+	\fancyhead[C]{\nouppercase{\leftmark}}
+	\fancyhead[R]{\companyNameShort \includegraphics[scale=0.02]{img/sample-logo.png}}%
+	\renewcommand{\footrulewidth}{0.4pt} %untere Trennlinie Dicke
+	\fancyfoot[L]{\authorName}
+	\fancyfoot[C]{\rightmark}
+	\fancyfoot[R]{\thepage}%
+}
+% style für alle ersten Seiten
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt} %obere Trennlinie Dicke
+\lhead{\projectTitleShort}
+\chead{\nouppercase{\leftmark}}
+\rhead{\companyNameShort \includegraphics[scale=0.02]{img/sample-logo.png}}
+\lfoot{\authorName}
+\cfoot{}
+\rfoot{\thepage}
+\renewcommand{\footrulewidth}{0.4pt} %untere Trennlinie Dicke
+% style für alle zusätzlichen Seiten
+
+\fancypagestyle{attachmentStyle}{
+	\fancyhf{}% clear all fields
+	\renewcommand{\headrulewidth}{0.4pt} %obere Trennlinie Dicke
+	\fancyhead[L]{\projectTitleShort}
+	\fancyhead[R]{\companyNameShort \includegraphics[scale=0.02]{img/sample-logo.png}}%	
+	\renewcommand{\footrulewidth}{0.4pt} %untere Trennlinie Dicke
+	\fancyfoot[L]{\authorName}
+	\fancyfoot[R]{\thepage}%	
+}	
+

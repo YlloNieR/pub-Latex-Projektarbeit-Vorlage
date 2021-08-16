@@ -1,0 +1,82 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Eidesstattliche Erklärung}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Praktikumsbetrieb}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Projektumfeld}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Zielsetzung}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Abschluss}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Projektplanung}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Zeitlicher Projektplan}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Ist-Analyse}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Soll-Analyse}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Ressourcenplanung}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Recherche Software und Hardware Komponenten}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Angebotseinholung und Vergleich}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}Entscheidung in Absprache mit der Geschäftsführung}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}Gesamtkostenaufstellung}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}Erstellen des Netzwerkplans}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Durchführung}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Beschaffung der Hardware und Softwarelizenzen}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Installation der Hardware}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Installation von Windows Server und Hyper-V}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Installieren des zweiten Domain Controller}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Migration des Exchange Servers}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Konvertieren der virtuellen Maschinen}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Dokumentation im Firmenwiki}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Qualitätskontrolle}{12}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Überprüfen der virtuellen Maschinen}{12}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Projektabschluss}{13}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Wirtschaftlichkeitsbetrachtung / Projektabschluss}{13}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Ipsum}{14}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Lorem}{14}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Latex}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline ein kurzer Paragraph}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\nonumberline sub P}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Use Case-Diagramm}{15}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Anhänge}{I}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Abkürzungsverzeichnis}{I}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{II}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Glossar}{IV}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{bib}{XVIII}{}%
+\defcounter {refsection}{0}\relax 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
