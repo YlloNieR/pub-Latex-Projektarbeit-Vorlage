@@ -1,0 +1,63 @@
+%!TEX root = rootOfProject.tex
+\usepackage[utf8]{inputenc} 
+% encoding für Umlaute
+\usepackage[ngerman]{babel}
+\usepackage{csquotes}
+% ermöglicht deutsche Silbentrennung
+\usepackage[T1]{fontenc} 
+% Fontencoding Format ermöglicht Suche nach Worten mit Ö
+\usepackage{graphicx} 
+% um Grafiken mit einzubinden z.B. jpeg
+\usepackage{lmodern}
+% mehr Schriftarten
+\usepackage{geometry}
+% für Layout config
+\usepackage[toc,section=section,acronym]{glossaries}
+% erstellt Glossar 
+\usepackage{silence}
+\WarningFilter{scrreprt}{Usage of package `fancyhdr'}
+% verhindert von fancyhdr Error
+\usepackage{pdfpages}
+% Zur Einbindung externer pdf Dateien
+\usepackage[
+	colorlinks,
+	pdfpagelabels,
+	pdfstartview = FitH,
+	bookmarksopen = true,
+	bookmarksnumbered = true,
+	linkcolor = black,
+	plainpages = false,
+	hypertexnames = false,
+	citecolor = black
+]{hyperref}
+% fügt Hyperlinks hinzu
+\usepackage[printonlyused]{acronym}
+% Zur Verwenung von Acronymen / Abkürzungen
+\usepackage{fancyhdr}
+% Für Header und Footer Style
+
+% \usepackage{helvet}
+% Schriftart= helvetica 
+% \renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{uarial}
+% Schriftart= arial
+\renewcommand{\familydefault}{\sfdefault}
+% setze default Schriftart
+\usepackage{ragged2e}
+% Schriftarten wie Blockschrift
+
+\usepackage{xcolor}
+% Für Tabellenfarben wie Projektphasen
+
+\usepackage[
+	backend=biber,
+	citestyle=numeric-comp,
+	sorting=none,
+	sortcites=true,
+	block=none
+	]{biblatex}
+\addbibresource{bibShow.bib}
+
+
+
