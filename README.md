@@ -39,12 +39,12 @@ powershell -Command "& $([scriptblock]::Create((New-Object Net.WebClient).Downlo
 
 ## Wie verwende ich:
 #### Abkürzungsverzeichnis / Acronyme
-![6](./620%-20%acronym.png)
+![6](./6%20-%20acronym.png)
 #### Abbildungsverzeichnis / List of Figures
-![7](./720%-20%List20%of20%Figures.png)
+![7](./7%20-%20List%20of%20Figures.png)
 #### Tabellenverzeichnis / List of tables
-![8](./820%-20%List20%of20%tables.png)
+![8](./8%20-%20List%20of%20tables.png)
 #### Glossar
-![9](./920%-20%Glossary.png)
+![9](./9%20-%20Glossary.png)
 #### Literatur
-![10](./1020%-20%Literature.png)
+![10](./10%20-%20Literature.png)
