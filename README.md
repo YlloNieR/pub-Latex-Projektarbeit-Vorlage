@@ -2,7 +2,7 @@
 Eine in Latex geschriebene Vorlage für die Projektdokumentation vom Fachinformatiker Systemintegration oder Anwendungsentwickler
 
 #### notwendige Software
-[TeXstudio](https://www.texstudio.org/) = Compiler & IDE
+- [TeXstudio](https://www.texstudio.org/) = Compiler & IDE
 
 #### installiere Updates
 - Starte MiKTeX Console
