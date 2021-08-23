@@ -24,6 +24,8 @@ powershell -Command "& $([scriptblock]::Create((New-Object Net.WebClient).Downlo
 - automatisches erstellen des Glossars beim Kompelier Vorgang
 *Diese Einstellung sollte nicht notwendig sein, aber falls das Glossar nicht erstellt wird siehe Screenshot.*
 ![5](./5.png)
+- best practice Konfiguration
+![12](./12.png)
 
 ###### um ein Literaturverzeichnis erstellen zu können:
 ![11](./11.png)
@@ -48,3 +50,9 @@ powershell -Command "& $([scriptblock]::Create((New-Object Net.WebClient).Downlo
 ![9](./9%20-%20Glossary.png)
 #### Literatur
 ![10](./10%20-%20Literature.png)
+#### mathematische Gleichungen
+![13](./13%20-%20math.png)
+
+## Shortcuts
+- makeglossaries = **F9**
+- compile & show = **F5**
