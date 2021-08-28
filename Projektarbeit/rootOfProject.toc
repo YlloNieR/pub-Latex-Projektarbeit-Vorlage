@@ -77,6 +77,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Glossar}{iv}{section*.51}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Literaturverzeichnis}{v}{section*.52}%
-\defcounter {refsection}{0}\relax 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
